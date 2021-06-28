@@ -1,2 +1,0 @@
-C:\Users\Jacek>curl http://127.0.0.1:8098/buckets/s22189/keys/dokument_6
-'{10}'
