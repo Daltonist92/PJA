@@ -1,0 +1,9 @@
+C:\Users\Jacek>curl -i -XGET http://127.0.0.1:8098/buckets/s22189/keys/dokument_5
+HTTP/1.1 404 Object Not Found
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Date: Sun, 27 Jun 2021 17:00:11 GMT
+Content-Type: text/plain
+Content-Length: 10
+
+not found
+

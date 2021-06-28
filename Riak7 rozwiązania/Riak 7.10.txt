@@ -1,0 +1,10 @@
+C:\Users\Jacek>curl -i -XDELETE http://127.0.0.1:8098/buckets/s22189/keys/dokument_6
+HTTP/1.1 204 No Content
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Date: Sun, 27 Jun 2021 17:06:07 GMT
+Content-Type: application/json
+Content-Length: 0
+
+
+C:\Users\Jacek>
