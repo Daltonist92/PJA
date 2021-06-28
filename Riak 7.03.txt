@@ -1,0 +1,13 @@
+C:\Users\Jacek>curl -i -XPUT -d '{"imie":"jacek","nazwisko":"gatkowski","sila":10,"charyzma":12,"szybkosc":20}' -H "Content-Type: application/json" http://127.0.0.1:8098/buckets/s22189/keys/dokument_1?returnbody=true
+HTTP/1.1 200 OK
+X-Riak-Vclock: a85hYGBgzGDKBVI8+xkWvl+zYx4LRCiRPY+V4ZCG7y2+LAA=
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Link: </buckets/s22189>; rel="up"
+Last-Modified: Sun, 27 Jun 2021 16:52:18 GMT
+ETag: "2tcedj5O52HnRvBXpkka1P"
+Date: Sun, 27 Jun 2021 16:52:18 GMT
+Content-Type: application/json
+Content-Length: 65
+
+'{imie:jacek,nazwisko:gatkowski,sila:10,charyzma:12,szybkosc:20}'
