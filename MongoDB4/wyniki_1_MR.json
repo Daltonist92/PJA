@@ -1,0 +1,19 @@
+{
+	"results" : [
+		{
+			"_id" : "Male",
+			"value" : {
+				"average" : 70.00976575121194,
+				"count" : 9904
+			}
+		},
+		{
+			"_id" : "Female",
+			"value" : {
+				"average" : 70.11331573604083,
+				"count" : 9850
+			}
+		}
+	],
+	"ok" : 1
+}
